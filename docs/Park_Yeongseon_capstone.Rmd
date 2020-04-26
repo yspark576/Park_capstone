@@ -1,3 +1,7 @@
+---
+title: "Speed and Distance"
+---
+
 ## 1) Backgroudn and significance
 Bacterial persistence refers to the survival of a fraction of the bacterial population under the treatment of antibiotics. This can be explained by bacterial cells in the "persister" state, which do not divide and are refractory to killing by antibiotics. However, these persister cells spontaneously resume to grow and susceptible to antibiotics again. As the existence of persister cells can reduce the effectiveness of treatment, understanding how this persister population will resume growing under different stresses is important.
 
